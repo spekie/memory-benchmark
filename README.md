@@ -11,9 +11,10 @@ cd ./memory-benchmark
 ```
 Compile the main.c file
 ```
-gcc -o mem-bench main.c
+gcc main.c
 ```
 Run the compiled file
 ```
-./mem-bench
+./a.out
 ```
+Ctrl + C to exit
