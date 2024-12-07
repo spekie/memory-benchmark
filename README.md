@@ -1,5 +1,5 @@
 # memory-benchmark
-A simple C program for evaluating the memory system
+A simple C program for evaluating the memory system. The program outputs different array sizes, and their corresponding different stride value.
 # Running the program
 Clone this repository using Git
 ```
